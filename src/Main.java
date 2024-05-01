@@ -12,7 +12,7 @@ public class Main {
             scanner.nextLine();
         } else {
             System.out.println("Ошибка: введено некорректное число.");
-            return; ///6666
+            return; ///branch
         }
 
 
